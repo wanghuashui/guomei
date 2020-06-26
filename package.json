@@ -1,0 +1,27 @@
+{
+  "name": "guomei",
+  "version": "1.0.0",
+  "description": "国美商城",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanghuashui/guomei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghuashui/guomei/issues"
+  },
+  "homepage": "https://github.com/wanghuashui/guomei#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "less": "^3.11.3"
+  }
+}
